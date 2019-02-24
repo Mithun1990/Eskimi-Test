@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Eskimi</string>
+    <string name="country">Country</string>
+    <string name="tax">Tax</string>
+    <string name="amount">Amount</string>
+    <string name="t_amount">Total Amount (Amount + Tax) </string>
+</resources>
